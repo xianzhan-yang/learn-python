@@ -1,8 +1,3 @@
-# Question
-# Modify the program to handle cases 
-# where the user tries to divide by zero 
-# (e.g., by showing an error message instead of a crash).
-
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
